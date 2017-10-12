@@ -1,4 +1,8 @@
 
+## [Click to view last talk slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
+
+----------
+
 # Talks
 
 ## Frontend
@@ -37,6 +41,9 @@
   - [Slides](https://castrinho8.github.io/free-software-privacy/#/portada)
   - [Repository](https://github.com/castrinho8/free-software-privacy)
 
+- **1984 is coming. Privacy as business model?** Gives a vision of some companies with business models based on privacy and some tips to improve clients privacy as developers or companies.
+  - [Slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
+  - [Repository](https://github.com/castrinho8/privacy-business-models)
 
 # License
 Copyright (c) 2017 Pablo Castro Valiño
