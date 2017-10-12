@@ -1,5 +1,5 @@
 
-## [Click to view last talk slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
 
 ----------
 
