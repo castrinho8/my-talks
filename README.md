@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/animations-performance/#/)
 
 ----------
 
@@ -10,6 +10,10 @@
   - [Slides](https://castrinho8.github.io/intro_js_react/)
   - [Repository](https://github.com/castrinho8/intro_js_react)
   - [Examples repository](https://github.com/castrinho8/intro_js_react_example)
+
+- **Make your animations perform well.**
+  - [Slides](https://castrinho8.github.io/animations-performance/#/)
+  - [Repository](https://github.com/castrinho8/animations-performance)
 
 ## Free software, hardware or culture
 - **What I am doing in the Open Source world?** Introductory talk about free software and how to contribute to communities.
