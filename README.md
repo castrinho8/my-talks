@@ -35,6 +35,11 @@
   - [Repository](https://github.com/castrinho8/free-software-competitions)
 
 
+- **Survival guide for rookie developers**. Talking to students about professional future and how free software can help them.
+  - [Slides](https://castrinho8.github.io/free-sofware-and-jobs/public/index.html#/portada)
+  - [Repository](https://github.com/castrinho8/free-sofware-and-jobs)
+
+
 - **Free software driving startups**. Free sofware alternatives for startups and Free Software business models lean on successful stories
   - [Slides](https://castrinho8.github.io/akademy-startups-presentation/#/portada)
   - [Repository](https://github.com/castrinho8/akademy-startups-presentation)
