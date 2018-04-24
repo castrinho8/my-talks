@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/animations-performance/#/)
+## [Click to see last talk slides](https://castrinho8.github.io/free-software-business-models/index.html)
 
 ----------
 
@@ -16,6 +16,10 @@
   - [Repository](https://github.com/castrinho8/animations-performance)
 
 ## Free software, hardware or culture
+- **Business models with Free Software**. Free Software business models based on successful startups stories
+  - [Slides](https://castrinho8.github.io/free-software-business-models/index.html)
+  - [Repository](https://github.com/castrinho8/free-software-business-models)
+
 - **What I am doing in the Open Source world?** Introductory talk about free software and how to contribute to communities.
   - [Slides](https://castrinho8.github.io/open-community/#/)
   - [Repository](https://github.com/castrinho8/open-community)
