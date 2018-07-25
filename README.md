@@ -58,6 +58,11 @@
   - [Slides](https://castrinho8.github.io/privacy-business-models/index.html#/portada)
   - [Repository](https://github.com/castrinho8/privacy-business-models)
 
+- **1984 is coming. Privacy in the real world** Talking about privacy, how, why and who is spying us in the technology world and some tips to improve our privacy in the real world, outside computers and the internet.
+  - [Slides](https://castrinho8.github.io/privacy-real-world/public/#/portada)
+  - [Repository](https://github.com/castrinho8/privacy-real-world)
+
+
 # License
 Copyright (c) 2017 Pablo Castro Valiño
 
