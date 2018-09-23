@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/privacy-real-world/public/#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/survival-guide-to-rookie-developers-2/public/#/portada)
 
 ----------
 
@@ -43,6 +43,10 @@
   - [Slides](https://castrinho8.github.io/free-sofware-and-jobs/public/index.html#/portada)
   - [Repository](https://github.com/castrinho8/free-sofware-and-jobs)
 
+
+- **Survival guide for rookie developers - 2** (24/09/2018). Talking to students about professional future and how free software can help them.
+  - [Slides](https://castrinho8.github.io/survival-guide-to-rookie-developers-2/public/#/portada)
+  - [Repository](https://github.com/castrinho8/survival-guide-to-rookie-developers-2)
 
 - **Free software driving startups**. Free sofware alternatives for startups and Free Software business models lean on successful stories
   - [Slides](https://castrinho8.github.io/akademy-startups-presentation/#/portada)
