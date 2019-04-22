@@ -66,6 +66,10 @@
   - [Slides](https://castrinho8.github.io/privacy-real-world/public/#/portada)
   - [Repository](https://github.com/castrinho8/privacy-real-world)
 
+- **1984 is coming. Tools to keep your privacy in internet** Talking about privacy, how, why and who is spying us in the technology world and some tips to improve our privacy in the internet, plugins and best practices.
+  - [Slides](https://castrinho8.github.io/privacy-tools/public/#/portada)
+  - [Repository](https://github.com/castrinho8/privacy-tools)
+
 
 # License
 Copyright (c) 2017 Pablo Castro Valiño
