@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/privacy-tools/public/#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/ok-google/public/#/portada)
 
 ----------
 
@@ -69,6 +69,11 @@
 - **1984 is coming. Tools to keep your privacy in internet** Talking about privacy, how, why and who is spying us in the technology world and some tips to improve our privacy in the internet, plugins and best practices.
   - [Slides](https://castrinho8.github.io/privacy-tools/public/#/portada)
   - [Repository](https://github.com/castrinho8/privacy-tools)
+
+- **Ok, Google! ¿Qué opinas de pagar para que unha multinacional te espíe?**
+  - [Meetup link](https://www.meetup.com/GPUL-Labs/events/265644892/) (19/12/2019)
+  - [Slides](https://castrinho8.github.io/ok-google/public/#/portada)
+  - [Repository](https://github.com/castrinho8/ok-google)
 
 
 # License
