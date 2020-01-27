@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/ok-google/public/#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/distopias-cotias/public/index.html#/portada)
 
 ----------
 
@@ -74,6 +74,11 @@
   - [Meetup link](https://www.meetup.com/GPUL-Labs/events/265644892/) (19/12/2019)
   - [Slides](https://castrinho8.github.io/ok-google/public/#/portada)
   - [Repository](https://github.com/castrinho8/ok-google)
+
+- **Ética, Privacidade e Tecnoloxía: retos abertos para os anos vinte**
+  - [Meetup link](https://www.meetup.com/Distopias-Cotias/events/267806186/) (27/01/2020)
+  - [Slides](https://castrinho8.github.io/distopias-cotias/public/index.html#/portada)
+  - [Repository](https://github.com/castrinho8/distopias-cotias)
 
 
 # License
