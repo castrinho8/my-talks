@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/distopias-cotias/public/index.html#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/privacy-tools-xantardev/public/index.html#/portada)
 
 ----------
 
@@ -8,6 +8,11 @@
 
 ## Privacy and internet freedom
 ### 2020
+- **Herramientas para mantener tu privacidad en Internet** (16/05/2020)
+  - [Meetup link](https://www.meetup.com/es-ES/XantarDev/events/270406431/)
+  - [Slides](https://castrinho8.github.io/privacy-tools-xantardev/public/index.html#/portada)
+  - [Repository](https://github.com/castrinho8/privacy-tools-xantardev)
+
 - **Ética, Privacidade e Tecnoloxía: retos abertos para os anos vinte** (27/01/2020)
   - [Meetup link](https://www.meetup.com/Distopias-Cotias/events/267806186/)
   - [Slides](https://castrinho8.github.io/distopias-cotias/public/index.html#/portada)
@@ -49,8 +54,8 @@
   - [Slides](https://castrinho8.github.io/survival-guide-to-rookie-developers-2/public/#/portada)
   - [Repository](https://github.com/castrinho8/survival-guide-to-rookie-developers-2)
 
-- **Business models with Free Software**. Free Software business models based on successful startups stories
-  - [Slides](https://castrinho8.github.io/free-software-business-models/index.html) (25/04/2018)
+- **Business models with Free Software** (25/04/2018). Free Software business models based on successful startups stories
+  - [Slides](https://castrinho8.github.io/free-software-business-models/index.html)
   - [Repository](https://github.com/castrinho8/free-software-business-models)
 
 ### 2017
