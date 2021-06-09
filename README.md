@@ -1,5 +1,5 @@
 
-## [Click to see last talk slides](https://castrinho8.github.io/flisol-2020/public/index.html#/portada)
+## [Click to see last talk slides](https://castrinho8.github.io/non-vemos-as-verzas/#/portada)
 
 ----------
 
@@ -7,6 +7,11 @@
 
 
 ## Privacy and internet freedom
+### 2021
+- **Estamos na hora e non vemos as verzas. Unha conversa sobre privacidade, capitalismo de datos e soberanía tecnolóxica.** - Online (10/06/2021)
+  - [Slides](https://castrinho8.github.io/non-vemos-as-verzas/#/portada)
+  - [Repository](https://github.com/castrinho8/non-vemos-as-verzas)
+
 ### 2020
 - **¿Mi móvil me espía? La difícil tarea de escapar del capitalismo de la vigilancia** - Flisol (26/09/2020)
   - [Slides](https://castrinho8.github.io/flisol-2020/public/index.html#/portada)
